@@ -1,4 +1,4 @@
-export default {
+{
   "A Thousand Cuts": {
     "NAME": "凌迟",
     "DESCRIPTION": "你每打出一张牌，就对所有敌人造成 !M! 点伤害。"
