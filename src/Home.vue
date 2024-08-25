@@ -108,9 +108,9 @@
 </template>
 
 <script>
-import allPotions from '@/config/potions'
-import allRelics from '@/config/relics'
-import allCards from '@/config/cards'
+import allPotions from './config/potions'
+import allRelics from './config/relics'
+import allCards from './config/cards'
 function foundInMap(map, key, foundAttrGet) {
   const temp = `没有找到${key}`
   if (map[key]) {
